@@ -78,7 +78,8 @@
   "addons": [
     {
       "plan": "heroku-postgresql",
-      "options": {
+      "url": "https://devcenter.heroku.com/articles/python-support"
+       "options": {
         "version": "10"
       }
     }
