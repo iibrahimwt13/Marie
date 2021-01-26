@@ -80,7 +80,7 @@
       "plan": "heroku-postgresql",
        "options": {
         "version": "10"
-        "url": "https://devcenter.heroku.com/articles/python-support"
+        "url" "https://devcenter.heroku.com/articles/python-support"
       }
     }
   ]
